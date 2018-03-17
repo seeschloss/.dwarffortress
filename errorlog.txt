@@ -1,0 +1,21 @@
+path fail: gander,60,82,173 -> 60,81,173: Id #21711:Path Goal Seek Station:Station Mill Building at 60,82,173
+path fail: cat,58,61,169 -> 55,61,169: Id #15195:Path Goal Seek Station:Station Owner at 57,62,169
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: dwarf,Construct Building,39,90,19 -> 24,49,19: Id #4635:Path Goal Main Job Building:Station Mill Building at 90,99,14
+loop path fail: <same square> cat,95,104,18 -> 98,101,18: Id #15196:Path Goal Seek Station:Station Owner at 111,100,18
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> dwarf,92,103,14 -> 93,103,14: Id #2733:Path Goal Performance:Station Mill Building at 92,101,14
+path fail: crundle,17,13,18 -> 19,15,19: Id #16465:Path Goal Seek Station:Station None at 17,13,18
+path fail: crundle,17,13,18 -> 19,13,18: Id #16476:Path Goal Seek Station:Station Owner at 17,11,18
