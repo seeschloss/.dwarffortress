@@ -19,3 +19,7 @@ removed erroneous unit occupancy flag
 loop path fail: <same square> dwarf,92,103,14 -> 93,103,14: Id #2733:Path Goal Performance:Station Mill Building at 92,101,14
 path fail: crundle,17,13,18 -> 19,15,19: Id #16465:Path Goal Seek Station:Station None at 17,13,18
 path fail: crundle,17,13,18 -> 19,13,18: Id #16476:Path Goal Seek Station:Station Owner at 17,11,18
+loop path fail: <same square> human,86,101,14 -> 85,101,14: Id #4594:Path Goal Performance:Station Mill Building at 93,106,14
+loop path fail: <same square> dwarf,92,104,14 -> 61,62,169: Id #5958:Path Goal Seek Station:Station Mill Building at 61,63,169
+loop path fail: <same square> human,84,99,14 -> 82,99,14: Id #4604:Path Goal Performance:Station Mill Building at 89,103,14
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
