@@ -23,3 +23,790 @@ loop path fail: <same square> human,86,101,14 -> 85,101,14: Id #4594:Path Goal P
 loop path fail: <same square> dwarf,92,104,14 -> 61,62,169: Id #5958:Path Goal Seek Station:Station Mill Building at 61,63,169
 loop path fail: <same square> human,84,99,14 -> 82,99,14: Id #4604:Path Goal Performance:Station Mill Building at 89,103,14
 DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+path fail: embers monster,67,119,11 -> 67,113,17: Id #16959:Path Goal Marauder Mill:Station Marauder Mill at 67,113,17
+path fail: dwarf,Construct Building,66,117,16 -> 65,119,15: Id #6032:Path Goal Drop Off Job Items:Station Mill Building at 89,100,14
+loop path fail: <same square> dwarf,85,100,14 -> 84,100,14: Id #6023:Path Goal Performance:Station Mill Building at 85,104,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,63 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,36 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,36 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,36 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,36 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,36 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,36 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Pickup Equipment,89,93,37 -> 113,75,14: Id #4772:Path Goal Grab Uniform:Station Mill Building at 91,103,14
+path fail: dwarf,Store Owned Item,89,93,77 -> 113,95,16: Id #4193:Path Goal Seek Item for Storage:Station Mill Building at 83,97,14
+path fail: cat,83,105,16 -> 112,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 111,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 109,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 111,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 113,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 109,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: dwarf,Store Owned Item,23,34,18 -> 111,95,16: Id #4987:Path Goal Seek Item for Storage:Station Mill Building at 89,103,14
+path fail: cat,83,105,16 -> 110,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 109,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: dwarf,Store Owned Item,89,93,76 -> 113,95,16: Id #4193:Path Goal Seek Item for Storage:Station Mill Building at 88,100,14
+path fail: cat,83,105,16 -> 112,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 111,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,96,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 113,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: dwarf,Store Owned Item,23,35,18 -> 111,95,16: Id #4987:Path Goal Seek Item for Storage:Station Mill Building at 89,103,14
+path fail: cat,83,105,16 -> 109,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 112,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 109,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 112,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 113,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 109,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 113,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 109,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 111,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 109,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: dwarf,Store Owned Item,23,35,18 -> 111,95,16: Id #4987:Path Goal Seek Item for Storage:Station Mill Building at 89,103,14
+path fail: cat,83,105,16 -> 109,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 109,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,96,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 113,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 113,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,96,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 109,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 111,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 111,95,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 110,97,16: Id #15354:Path Goal Seek Station:Station Owner at 111,95,16
+path fail: cat,83,105,16 -> 69,110,16: Id #16604:Path Goal Flee from Opponent:Station Vermin Hunting at 99,100,16
+path fail: cat,81,105,16 -> 19,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,22,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,24,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,24,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,24,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 19,22,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,22,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,24,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,22,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,22,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 19,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,24,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,24,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,22,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 19,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,24,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,22,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,24,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 19,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,22,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,22,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 19,24,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 19,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,24,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 19,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 19,22,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 19,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,22,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,22,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 19,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 19,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,24,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: dwarf,Drink,70,95,11 -> 97,102,16: Id #15707:Path Goal Grab Goblet:Station Mill Building at 83,97,14
+path fail: cat,81,105,16 -> 19,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,22,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,24,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,22,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,22,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,24,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,24,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,22,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 19,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,24,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,24,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 19,22,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 20,25,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 18,21,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 22,23,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+path fail: cat,81,105,16 -> 21,24,18: Id #15197:Path Goal Seek Station:Station Owner at 20,23,18
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+path fail: dwarf,Extract Metal Strands,122,27,15 -> 117,21,15: Id #6470:Path Goal Grab Job Resources:Station Mill Building at 67,62,169
+path fail: dwarf,Extract Metal Strands,88,104,14 -> 117,21,15: Id #2739:Path Goal Grab Job Resources:Station Mill Building at 89,95,14
+path fail: dwarf,Extract Metal Strands,90,99,14 -> 117,21,15: Id #2739:Path Goal Grab Job Resources:Station Mill Building at 89,95,14
+path fail: dwarf,Extract Metal Strands,86,99,14 -> 117,21,15: Id #2739:Path Goal Grab Job Resources:Station Mill Building at 89,95,14
+path fail: dwarf,Extract Metal Strands,93,104,14 -> 117,21,15: Id #2739:Path Goal Grab Job Resources:Station Mill Building at 89,95,14
+path fail: dwarf,Extract Metal Strands,89,106,14 -> 117,21,15: Id #2739:Path Goal Grab Job Resources:Station Mill Building at 89,95,14
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+path fail: dwarf,32,48,19 -> 121,61,15: Id #5969:Path Goal Seek Station:Station Squad Kill List at 121,64,15
+path fail: dwarf,97,102,16 -> 121,64,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 121,64,15
+path fail: dwarf,105,95,16 -> 121,64,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 121,64,15
+path fail: dwarf,89,98,16 -> 121,62,15: Id #4622:Path Goal Seek Station:Station Squad Kill List at 121,64,15
+path fail: dwarf,89,93,18 -> 121,61,15: Id #4761:Path Goal Seek Station:Station Squad Kill List at 121,63,15
+path fail: dwarf,89,98,16 -> 121,62,15: Id #4622:Path Goal Seek Station:Station Squad Kill List at 121,63,15
+path fail: dwarf,89,98,16 -> 121,44,15: Id #4622:Path Goal Seek Station:Station Squad Kill List at 121,46,15
+path fail: dwarf,89,98,16 -> 121,48,15: Id #4622:Path Goal Seek Station:Station Squad Kill List at 121,46,15
+path fail: dwarf,89,98,16 -> 121,47,15: Id #4622:Path Goal Seek Station:Station Squad Kill List at 121,46,15
+path fail: dwarf,89,93,54 -> 121,33,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,36,15
+path fail: dwarf,89,93,54 -> 121,37,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,36,15
+path fail: dwarf,89,93,54 -> 121,32,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,35,15
+path fail: dwarf,89,93,54 -> 121,37,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,35,15
+path fail: dwarf,89,93,54 -> 121,37,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,35,15
+path fail: dwarf,89,93,54 -> 121,37,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,34,15
+path fail: dwarf,89,93,54 -> 121,32,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,34,15
+path fail: dwarf,89,93,54 -> 121,35,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,34,15
+path fail: dwarf,89,93,54 -> 122,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,33,15
+path fail: dwarf,89,93,54 -> 119,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,33,15
+path fail: dwarf,89,93,54 -> 121,32,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,33,15
+path fail: dwarf,89,93,54 -> 121,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,32,15
+path fail: dwarf,89,93,54 -> 121,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,32,15
+path fail: dwarf,89,93,54 -> 121,31,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,32,15
+path fail: dwarf,89,93,54 -> 119,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,32,15
+path fail: dwarf,89,93,54 -> 118,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,31,15
+path fail: dwarf,89,93,54 -> 119,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,31,15
+path fail: dwarf,89,93,54 -> 121,33,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,31,15
+path fail: dwarf,89,93,54 -> 122,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,31,15
+path fail: dwarf,89,93,54 -> 120,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 121,31,15
+path fail: dwarf,89,93,54 -> 120,27,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 120,30,15
+path fail: dwarf,89,93,54 -> 119,26,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 120,29,15
+path fail: dwarf,89,93,54 -> 121,32,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 120,29,15
+path fail: dwarf,89,93,54 -> 120,28,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 120,29,15
+path fail: dwarf,89,93,54 -> 118,28,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 120,29,15
+path fail: dwarf,89,93,54 -> 119,27,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 120,29,15
+path fail: dwarf,89,93,54 -> 119,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,28,15
+path fail: dwarf,89,93,54 -> 118,28,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,28,15
+path fail: dwarf,89,93,54 -> 117,25,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,28,15
+path fail: dwarf,89,93,54 -> 121,28,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,28,15
+path fail: dwarf,89,93,54 -> 122,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,28,15
+path fail: dwarf,89,93,54 -> 118,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,28,15
+path fail: dwarf,89,93,54 -> 120,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,89,93,54 -> 116,24,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,89,93,54 -> 119,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,89,93,54 -> 118,25,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,89,93,54 -> 117,23,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,26,15
+path fail: dwarf,89,93,54 -> 121,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,26,15
+path fail: dwarf,89,93,54 -> 117,23,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,26,15
+path fail: dwarf,89,93,54 -> 121,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,26,15
+path fail: dwarf,89,93,54 -> 119,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,26,15
+path fail: dwarf,121,78,16 -> 115,24,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,26,15
+path fail: dwarf,89,93,54 -> 116,24,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,25,15
+path fail: dwarf,121,78,16 -> 116,23,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,25,15
+path fail: dwarf,89,93,54 -> 119,25,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,25,15
+path fail: dwarf,121,78,16 -> 115,22,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,25,15
+path fail: dwarf,89,93,54 -> 119,28,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,25,15
+path fail: dwarf,121,78,16 -> 119,28,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,25,15
+path fail: dwarf,89,93,54 -> 120,25,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,25,15
+path fail: dwarf,121,78,16 -> 120,25,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,25,15
+path fail: dwarf,89,93,54 -> 117,25,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,25,15
+path fail: dwarf,121,78,16 -> 118,28,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,25,15
+path fail: dwarf,89,93,54 -> 117,25,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,25,15
+path fail: dwarf,89,93,54 -> 119,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,89,93,54 -> 122,27,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,121,78,16 -> 121,26,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,89,93,54 -> 118,26,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,121,78,16 -> 118,25,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,89,93,54 -> 121,27,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,121,78,16 -> 119,26,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,89,93,54 -> 120,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,121,78,16 -> 119,28,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,89,93,54 -> 122,27,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,121,78,16 -> 121,28,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,89,93,54 -> 120,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,121,78,16 -> 120,25,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,89,93,54 -> 121,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,121,78,16 -> 118,26,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,89,93,54 -> 122,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,121,78,16 -> 119,27,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,89,93,54 -> 121,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,121,78,16 -> 120,27,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,89,93,54 -> 116,25,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,121,78,16 -> 120,29,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,89,93,54 -> 121,27,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,121,78,16 -> 119,28,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 119,26,15
+path fail: dwarf,89,93,54 -> 117,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,121,78,16 -> 120,28,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,89,93,54 -> 117,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,121,78,16 -> 118,30,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,89,93,54 -> 119,26,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,121,78,16 -> 120,30,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,89,93,54 -> 120,27,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,121,78,16 -> 117,30,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,89,93,54 -> 116,24,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,121,78,16 -> 115,25,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,89,93,54 -> 117,25,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,121,78,16 -> 120,30,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,89,93,54 -> 119,25,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,121,78,16 -> 118,26,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,27,15
+path fail: dwarf,89,93,54 -> 121,26,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,121,78,16 -> 120,27,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,89,93,54 -> 116,25,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,121,78,16 -> 118,28,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,89,93,54 -> 120,27,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,121,78,16 -> 121,27,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,89,93,54 -> 120,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,121,78,16 -> 115,25,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,89,93,54 -> 121,26,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,121,78,16 -> 116,25,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,89,93,54 -> 120,28,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,121,78,16 -> 118,26,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,89,93,54 -> 117,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,121,78,16 -> 119,30,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,89,93,54 -> 120,25,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,121,78,16 -> 121,29,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,89,93,54 -> 121,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,121,78,16 -> 118,30,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,28,15
+path fail: dwarf,89,93,54 -> 120,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,121,78,16 -> 119,27,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,89,93,54 -> 119,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,121,78,16 -> 119,26,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,89,93,54 -> 119,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,121,78,16 -> 121,30,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,89,93,54 -> 121,32,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,121,78,16 -> 118,28,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,89,93,54 -> 119,27,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,121,78,16 -> 121,28,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,89,93,54 -> 118,28,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,121,78,16 -> 121,29,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,89,93,54 -> 121,32,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,121,78,16 -> 121,29,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,89,93,54 -> 119,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,121,78,16 -> 121,31,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,89,93,54 -> 120,26,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,121,78,16 -> 118,26,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,89,93,54 -> 121,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,121,78,16 -> 119,29,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,89,93,54 -> 119,26,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,121,78,16 -> 120,27,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 118,29,15
+path fail: dwarf,89,93,54 -> 119,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,78,16 -> 120,29,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,89,93,54 -> 118,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,78,16 -> 120,30,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,89,93,54 -> 119,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,78,16 -> 119,30,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,89,93,54 -> 118,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,78,16 -> 120,27,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,89,93,54 -> 119,28,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,78,16 -> 118,30,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,89,93,54 -> 120,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,78,16 -> 120,27,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,89,93,54 -> 120,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,78,16 -> 117,30,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,89,93,54 -> 117,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,78,16 -> 120,30,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,89,93,54 -> 119,28,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,78,16 -> 119,30,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,89,93,54 -> 118,28,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,78,16 -> 117,30,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,89,93,54 -> 118,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,78,16 -> 120,29,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,89,93,54 -> 117,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,78,16 -> 118,29,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,89,93,54 -> 120,28,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,78,16 -> 120,27,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,89,93,54 -> 120,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,89,93,54 -> 120,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,89,93,54 -> 119,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,89,93,54 -> 118,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,79,16 -> 119,27,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 121,67,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,29,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,27,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 118,30,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,30,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 118,29,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 118,27,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,28,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,28,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,30,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 118,29,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,27,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,28,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,29,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,30,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,30,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 117,30,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,27,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 117,30,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,27,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 118,29,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,27,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 118,28,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,29,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 117,30,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 118,29,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 118,30,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,29,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,27,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 118,28,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,29,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,29,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,29,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,29,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 117,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 118,28,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,28,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,29,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,29,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,29,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 118,27,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 118,30,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 118,28,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,27,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,27,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,30,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 117,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 118,27,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 118,27,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 117,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,27,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 118,30,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,27,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,30,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,30,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 117,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,28,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 117,30,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,29,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,28,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,30,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 119,30,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,70,15 -> 120,27,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 117,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 117,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 117,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 117,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 117,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 117,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 119,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 118,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 117,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,76,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 117,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 117,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 117,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 117,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 117,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,27,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 117,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,28,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,90,93,19 -> 118,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 119,30,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,90,93,19 -> 119,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,90,93,19 -> 120,30,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 120,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,90,93,19 -> 120,29,15: Id #2726:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,75,16 -> 118,29,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 117,30,15
+path fail: dwarf,121,73,16 -> 121,67,15: Id #4759:Path Goal Seek Station:Station Mill Building at 86,97,14
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+path fail: dwarf,121,74,16 -> 121,71,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,166 -> 121,70,15: Id #4978:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,104 -> 121,70,15: Id #4759:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,76,16 -> 121,71,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,148 -> 120,71,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,74,16 -> 118,73,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,166 -> 121,69,15: Id #4978:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,104 -> 120,71,15: Id #4759:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,76,16 -> 118,71,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,148 -> 121,68,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,74,16 -> 118,74,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,166 -> 118,74,15: Id #4978:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,104 -> 120,71,15: Id #4759:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,76,16 -> 118,72,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,148 -> 118,70,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,74,16 -> 121,71,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,166 -> 121,69,15: Id #4978:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,104 -> 118,70,15: Id #4759:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,76,16 -> 121,70,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,148 -> 118,72,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,74,16 -> 118,70,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,166 -> 118,72,15: Id #4978:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,104 -> 118,71,15: Id #4759:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,76,16 -> 118,74,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,148 -> 121,69,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,74,16 -> 118,74,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,166 -> 119,71,15: Id #4978:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,104 -> 118,72,15: Id #4759:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,76,16 -> 118,72,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,148 -> 118,71,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,74,16 -> 121,69,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,166 -> 118,74,15: Id #4978:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,104 -> 120,71,15: Id #4759:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,76,16 -> 120,71,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,148 -> 118,74,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,74,16 -> 118,72,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,166 -> 119,71,15: Id #4978:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,104 -> 118,70,15: Id #4759:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,76,16 -> 118,72,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,148 -> 121,68,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,74,16 -> 121,70,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,166 -> 121,70,15: Id #4978:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,104 -> 118,74,15: Id #4759:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,76,16 -> 121,70,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,148 -> 118,74,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,74,16 -> 118,73,15: Id #5005:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,166 -> 118,70,15: Id #4978:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,104 -> 120,71,15: Id #4759:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,121,76,16 -> 120,71,15: Id #4757:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,89,93,148 -> 119,71,15: Id #6032:Path Goal Seek Station:Station Squad Kill List at 121,71,15
+path fail: dwarf,Construct Building,121,93,16 -> 120,27,15: Id #4762:Path Goal Drop Off Job Items:Station Mill Building at 90,106,14
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+loop path fail: <same square> dwarf,92,101,14 -> 93,101,14: Id #4191:Path Goal Performance:Station Mill Building at 85,102,14
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
