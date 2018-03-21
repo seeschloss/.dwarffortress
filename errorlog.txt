@@ -810,3 +810,33 @@ DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
 DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
 DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
 DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+path fail: dwarf,Fish,89,93,35 -> 15,63,175: Id #3436:Path Goal Start Fish:Station Mill Building at 93,102,14
+path fail: dwarf,Fish,75,74,173 -> 15,66,175: Id #4193:Path Goal Start Fish:Station Mill Building at 64,60,169
+path fail: dwarf,Fish,79,93,169 -> 13,67,175: Id #4760:Path Goal Start Fish:Station Mill Building at 88,106,14
+path fail: dwarf,Fish,89,93,167 -> 15,64,175: Id #4180:Path Goal Start Fish:Station Mill Building at 85,97,14
+path fail: goblin,118,96,174 -> 118,93,169: Id #17299:Path Goal Seek Station:Station None at 114,109,173
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+loop path fail: <same square> dwarf,Store Item in Barrel,89,95,16 -> 94,97,18: Id #15188:Path Goal Seek Item for Storage:Station Mill Building at 91,101,14
+loop path fail: <same square> cat,102,103,18 -> 99,107,18: Id #15355:Path Goal Seek Station:Station Owner at 107,99,18
+path fail: cat,89,95,16 -> 109,81,174: Id #16075:Path Goal Seek Station:Station None at 89,95,16
+path fail: dwarf,Fish,89,93,20 -> 14,67,175: Id #4997:Path Goal Start Fish:Station Mill Building at 64,66,169
+path fail: dwarf,Fish,64,90,169 -> 15,66,175: Id #5003:Path Goal Start Fish:Station Mill Building at 66,66,169
+path fail: cat,89,94,16 -> 28,64,175: Id #16604:Path Goal Seek Station:Station None at 89,96,16
+path fail: dwarf,Pickup Equipment,91,98,18 -> 132,45,173: Id #2735:Path Goal Grab Uniform:Station Mill Building at 84,102,14
+path fail: dwarf,Load Cage Trap,94,110,16 -> 74,76,174: Id #15188:Path Goal Work at Building:Station Mill Building at 83,96,14
+path fail: human,Load Cage Trap,89,95,16 -> 78,76,174: Id #4636:Path Goal Work at Building:Station Mill Building at 91,105,14

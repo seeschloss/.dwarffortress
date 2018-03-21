@@ -14,195 +14,196 @@ Initializing Console.
 Console is running.
 <vtable-address name='renderer' value='0x7ffff6cf6488'/>
 Initializing Plugins.
+loading plugin pathable
+loaded plugin pathable; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin workNow
+loaded plugin workNow; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin building-hacks
+loaded plugin building-hacks; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin reveal
+loaded plugin reveal; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin lair
+loaded plugin lair; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin seedwatch
+loaded plugin seedwatch; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin changevein
+loaded plugin changevein; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin fix-armory
+loaded plugin fix-armory; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin jobutils
+loaded plugin jobutils; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin ruby
+loaded plugin ruby; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin createitem
+loaded plugin createitem; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin automelt
+loaded plugin automelt; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin misery
+loaded plugin misery; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin command-prompt
+loaded plugin command-prompt; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin confirm
+loaded plugin confirm; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin automaterial
+loaded plugin automaterial; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin trackstop
+loaded plugin trackstop; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin deramp
+loaded plugin deramp; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin liquids
+loaded plugin liquids; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin autolabor
+loaded plugin autolabor; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin power-meter
+loaded plugin power-meter; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin autodump
+loaded plugin autodump; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin autotrade
+loaded plugin autotrade; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin autohauler
+loaded plugin autohauler; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin blueprint
+loaded plugin blueprint; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin resume
+loaded plugin resume; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin search
+loaded plugin search; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin fixveins
+loaded plugin fixveins; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin 3dveins
+/usr/lib/libm.so.6: version `GLIBC_2.27' not found (required by /home/seeschloss/.dwarffortress/hack/plugins/3dveins.plug.so)
+Can't load plugin 3dveins
+loading plugin strangemood
+loaded plugin strangemood; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin workflow
+loaded plugin workflow; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin siege-engine
+loaded plugin siege-engine; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin isoworldremote
+loaded plugin isoworldremote; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin getplants
+loaded plugin getplants; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin tweak
+loaded plugin tweak; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin rename
+loaded plugin rename; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin mousequery
+loaded plugin mousequery; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin generated-creature-renamer
+loaded plugin generated-creature-renamer; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin prospector
+loaded plugin prospector; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin diggingInvaders
+loaded plugin diggingInvaders; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin manipulator
+loaded plugin manipulator; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin fastdwarf
+loaded plugin fastdwarf; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin zone
+loaded plugin zone; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin regrass
+loaded plugin regrass; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin petcapRemover
+loaded plugin petcapRemover; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin changeitem
+loaded plugin changeitem; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin dwarfvet
+loaded plugin dwarfvet; DFHack build 0.44.07-alpha1-0-g6f864f97
 loading plugin hotkeys
 loaded plugin hotkeys; DFHack build 0.44.07-alpha1-0-g6f864f97
 loading plugin buildingplan
 loaded plugin buildingplan; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin fortplan
-loaded plugin fortplan; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin tubefill
-loaded plugin tubefill; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin tiletypes
-loaded plugin tiletypes; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin title-version
-loaded plugin title-version; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin tweak
-loaded plugin tweak; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin changeitem
-loaded plugin changeitem; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin pathable
-loaded plugin pathable; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin rename
-loaded plugin rename; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin autohauler
-loaded plugin autohauler; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin plants
-loaded plugin plants; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin cleaners
-loaded plugin cleaners; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin strangemood
-loaded plugin strangemood; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin add-spatter
-loaded plugin add-spatter; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin trackstop
-loaded plugin trackstop; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin command-prompt
-loaded plugin command-prompt; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin automelt
-loaded plugin automelt; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin zone
-loaded plugin zone; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin petcapRemover
-loaded plugin petcapRemover; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin resume
-loaded plugin resume; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin stockpiles
-loaded plugin stockpiles; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin power-meter
-loaded plugin power-meter; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin createitem
-loaded plugin createitem; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin search
-loaded plugin search; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin blueprint
-loaded plugin blueprint; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin diggingInvaders
-loaded plugin diggingInvaders; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin changevein
-loaded plugin changevein; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin sort
-loaded plugin sort; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin cleanowned
-loaded plugin cleanowned; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin workNow
-loaded plugin workNow; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin fastdwarf
-loaded plugin fastdwarf; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin orders
+loaded plugin orders; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin labormanager
+loaded plugin labormanager; DFHack build 0.44.07-alpha1-0-g6f864f97
 loading plugin title-folder
 SDLreal.dll: cannot open shared object file: No such file or directory
 SDL.framework/Versions/A/SDL: cannot open shared object file: No such file or directory
 SDL.framework/SDL: cannot open shared object file: No such file or directory
 loaded plugin title-folder; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin seedwatch
-loaded plugin seedwatch; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin showmood
-loaded plugin showmood; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin getplants
-loaded plugin getplants; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin rendermax
-/usr/lib/libm.so.6: version `GLIBC_2.27' not found (required by /home/seeschloss/.dwarffortress/hack/plugins/rendermax.plug.so)
-Can't load plugin rendermax
-loading plugin orders
-loaded plugin orders; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin reveal
-loaded plugin reveal; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin manipulator
-loaded plugin manipulator; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin misery
-loaded plugin misery; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin mousequery
-loaded plugin mousequery; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin lair
-loaded plugin lair; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin deramp
-loaded plugin deramp; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin forceequip
-loaded plugin forceequip; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin changelayer
-loaded plugin changelayer; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin stocks
+loaded plugin stocks; DFHack build 0.44.07-alpha1-0-g6f864f97
 loading plugin mode
 loaded plugin mode; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin steam-engine
-loaded plugin steam-engine; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin fix-unit-occupancy
-loaded plugin fix-unit-occupancy; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin filltraffic
-loaded plugin filltraffic; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin follow
-loaded plugin follow; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin siege-engine
-loaded plugin siege-engine; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin confirm
-loaded plugin confirm; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin infiniteSky
-loaded plugin infiniteSky; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin plants
+loaded plugin plants; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin stockpiles
+loaded plugin stockpiles; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin title-version
+loaded plugin title-version; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin RemoteFortressReader
+loaded plugin RemoteFortressReader; DFHack build 0.44.07-alpha1-0-g6f864f97
 loading plugin stonesense
 /usr/lib/libm.so.6: version `GLIBC_2.27' not found (required by /home/seeschloss/.dwarffortress/hack/plugins/stonesense.plug.so)
 Can't load plugin stonesense
-loading plugin dwarfvet
-loaded plugin dwarfvet; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin automaterial
-loaded plugin automaterial; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin changelayer
+loaded plugin changelayer; DFHack build 0.44.07-alpha1-0-g6f864f97
 loading plugin dig
 loaded plugin dig; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin generated-creature-renamer
-loaded plugin generated-creature-renamer; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin flows
-loaded plugin flows; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin workflow
-loaded plugin workflow; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin prospector
-loaded plugin prospector; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin jobutils
-loaded plugin jobutils; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin RemoteFortressReader
-loaded plugin RemoteFortressReader; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin ruby
-loaded plugin ruby; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin cursecheck
-loaded plugin cursecheck; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin digFlood
-loaded plugin digFlood; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin embark-tools
-loaded plugin embark-tools; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin eventful
-loaded plugin eventful; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin stockflow
-loaded plugin stockflow; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin fixveins
-loaded plugin fixveins; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin dwarfmonitor
-loaded plugin dwarfmonitor; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin liquids
-loaded plugin liquids; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin autotrade
-loaded plugin autotrade; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin isoworldremote
-loaded plugin isoworldremote; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin regrass
-loaded plugin regrass; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin luasocket
-loaded plugin luasocket; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin burrows
-loaded plugin burrows; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin probe
-loaded plugin probe; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin autogems
-loaded plugin autogems; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin embark-assistant
-loaded plugin embark-assistant; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin autolabor
-loaded plugin autolabor; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin labormanager
-loaded plugin labormanager; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin building-hacks
-loaded plugin building-hacks; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin autochop
-loaded plugin autochop; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin showmood
+loaded plugin showmood; DFHack build 0.44.07-alpha1-0-g6f864f97
 loading plugin cleanconst
 loaded plugin cleanconst; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin 3dveins
-/usr/lib/libm.so.6: version `GLIBC_2.27' not found (required by /home/seeschloss/.dwarffortress/hack/plugins/3dveins.plug.so)
-Can't load plugin 3dveins
-loading plugin stocks
-loaded plugin stocks; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin autodump
-loaded plugin autodump; DFHack build 0.44.07-alpha1-0-g6f864f97
-loading plugin fix-armory
-loaded plugin fix-armory; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin stockflow
+loaded plugin stockflow; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin cleanowned
+loaded plugin cleanowned; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin sort
+loaded plugin sort; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin fix-unit-occupancy
+loaded plugin fix-unit-occupancy; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin probe
+loaded plugin probe; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin eventful
+loaded plugin eventful; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin tubefill
+loaded plugin tubefill; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin forceequip
+loaded plugin forceequip; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin fortplan
+loaded plugin fortplan; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin luasocket
+loaded plugin luasocket; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin steam-engine
+loaded plugin steam-engine; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin autochop
+loaded plugin autochop; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin filltraffic
+loaded plugin filltraffic; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin rendermax
+/usr/lib/libm.so.6: version `GLIBC_2.27' not found (required by /home/seeschloss/.dwarffortress/hack/plugins/rendermax.plug.so)
+Can't load plugin rendermax
+loading plugin dwarfmonitor
+loaded plugin dwarfmonitor; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin tiletypes
+loaded plugin tiletypes; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin digFlood
+loaded plugin digFlood; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin cursecheck
+loaded plugin cursecheck; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin add-spatter
+loaded plugin add-spatter; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin cleaners
+loaded plugin cleaners; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin embark-tools
+loaded plugin embark-tools; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin embark-assistant
+loaded plugin embark-assistant; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin burrows
+loaded plugin burrows; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin follow
+loaded plugin follow; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin flows
+loaded plugin flows; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin infiniteSky
+loaded plugin infiniteSky; DFHack build 0.44.07-alpha1-0-g6f864f97
+loading plugin autogems
+loaded plugin autogems; DFHack build 0.44.07-alpha1-0-g6f864f97
 Starting IO thread.
 Starting DF input capture thread.
 Starting the TCP listener.
+TCP listen failed.
 DFHack is running.
 Invoking: keybinding add Ctrl-F1 hotkeys
 Invoking: keybinding add Alt-F1 hotkeys
@@ -334,61 +335,12 @@ UNKNOWN CLASS 'ack21dfhack_lua_viewscreenE': vtable = 0x7ffff7cee3b8
 Invoking: gui/prerelease-warning
 loaded map in prerelease build
 Could not load script: onLoad.init-example
-Invoking: gui/prerelease-warning
-loaded map in prerelease build
-Could not load script: onLoad.init-example
-Invoking: gui/prerelease-warning
-loaded map in prerelease build
-Could not load script: onLoad.init-example
-Invoking: ls
-Invoking: exterminate it
-Invoking: exterminate her
-Invoking: exterminate it
-Invoking: exterminate her
-Invoking: exterminate her
-Invoking: exterminate her
-Invoking: exterminate him
-Invoking: exterminate him
-Invoking: exterminate her
-Invoking: exterminate her
-Invoking: tiletypes
-THIS TOOL CAN BE DANGEROUS. YOU'VE BEEN WARNED.
-Set the paint first.
-Invoking: exterminate him
-Invoking: quicksave
-Invoking: exterminate him
-Invoking: exterminate her
-Invoking: exterminate her
-Invoking: exterminate her
-Invoking: exterminate her
-Invoking: exterminate her
-Invoking: exterminate him
-Invoking: exterminate
-Invoking: exterminate DEMON_2
-Invoking: exterminate DEMON_4
-Invoking: exterminate DEMON_3
-Invoking: exterminate DEMON_5
-Invoking: exterminate DEMON_1
-Invoking: exterminate DEMON_25
-Invoking: exterminate DEMON_21
-Invoking: exterminate DEMON_23
-Invoking: exterminate
-Invoking: exterminate DEMON_19
-Invoking: exterminate
-Invoking: exterminate DEMON_3
-Invoking: exterminate DEMON_4
-Invoking: exterminate DEMON_6
-Invoking: exterminate
 Invoking: quicksave
 Invoking: quicksave
-Invoking: ls
-Invoking: quicksave
-Invoking: ls
-UNKNOWN CLASS 'viewscreen_unitlaborsst': vtable = 0x7fffe2308c08
+UNKNOWN CLASS 'viewscreen_unitlaborsst': vtable = 0x7fffdbffec08
 Invoking: quicksave
 Invoking: quicksave
+Invoking: fastdwarf 1 1
+Invoking: fastdwarf 0 0
 Invoking: quicksave
 Invoking: quicksave
-UNKNOWN CLASS 'iewscreenStocks': vtable = 0x7fffd6d3ebc8
-Invoking: quicksave
-Invoking: die
