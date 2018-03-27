@@ -56514,3 +56514,881 @@ Spring has arrived on the calendar.
 The weather has cleared.
 Loaded region1, Tethaorid (The Destined Universe) at coordinates (42,78)
 Loaded the fortress Dar—dadil (Climatewall), colonized by the group Rith Vetek (The Bell of Targets) of the civilization G•stanginod (The Awe-inspiring Gates).
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+** Loading Fortress **
+An animal has grown to become a Stray Cat.
+x2
+Iden Logemidok, Peasant cancels Make quire: Needs 1 sheet.
+Iden Logemidok, Peasant cancels Make scroll: Needs 1 sheet.
+Iden Logemidok, Peasant cancels Press plant slurry into paper sheet: Needs 150 non-pressed PAPER_SLURRY glob.
+Iden Logemidok, Peasant cancels Mash plant into slurry: Needs unrotten PRESS_PAPER_MAT-producing plants.
+Ushat Datanmedtob, Planter cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Kikrost Likottƒmol, Woodcrafter cancels Extract Metal Strands: Needs raw adamantine.
+x2
+x3
+Obok Lisedunib, Scholar cancels Extract Metal Strands: Needs raw adamantine.
+Iden Logemidok, Peasant cancels Make quire: Needs 1 sheet.
+Iden Logemidok, Peasant cancels Make scroll: Needs 1 sheet.
+Iden Logemidok, Peasant cancels Press plant slurry into paper sheet: Needs 150 non-pressed PAPER_SLURRY glob.
+Iden Logemidok, Peasant cancels Mash plant into slurry: Needs unrotten PRESS_PAPER_MAT-producing plants.
+Rofa Mocurithit¡, mayor cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Kikrost Likottƒmol, Woodcrafter cancels Extract Metal Strands: Needs raw adamantine.
+x2
+x3
+*** STARTING NEW GAME ***
+** Loading Fortress **
+An animal has grown to become a Stray Cat.
+x2
+Iden Logemidok, Peasant cancels Make quire: Needs 1 sheet.
+Iden Logemidok, Peasant cancels Make scroll: Needs 1 sheet.
+Obok Lisedunib, Scholar cancels Extract Metal Strands: Needs raw adamantine.
+Iden Logemidok, Peasant cancels Press plant slurry into paper sheet: Needs 150 non-pressed PAPER_SLURRY glob.
+Obok Lisedunib, Scholar cancels Extract Metal Strands: Needs raw adamantine.
+Iden Logemidok, Peasant cancels Mash plant into slurry: Needs unrotten PRESS_PAPER_MAT-producing plants.
+Obok Lisedunib, Scholar cancels Extract Metal Strands: Needs raw adamantine.
+x2
+Reg Oddomkovest, Planter cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Iden Noramzuglar, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Reg Oddomkovest, Planter cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Udil Besmarlaz, Hunter cancels Make soap from oil: Needs oil-containing item.
+Iden Logemidok, Peasant cancels Make quire: Needs 1 sheet.
+Iden Logemidok, Peasant cancels Make scroll: Needs 1 sheet.
+Kikrost Likottƒmol, Woodcrafter cancels Extract Metal Strands: Needs raw adamantine.
+Iden Logemidok, Peasant cancels Mash plant into slurry: Needs unrotten PRESS_PAPER_MAT-producing plants.
+Kikrost Likottƒmol, Woodcrafter cancels Extract Metal Strands: Needs raw adamantine.
+Iden Logemidok, Peasant cancels Press plant slurry into paper sheet: Needs 150 non-pressed PAPER_SLURRY glob.
+Kikrost Likottƒmol, Woodcrafter cancels Extract Metal Strands: Needs raw adamantine.
+Obok Lisedunib, Scholar cancels Extract Metal Strands: Needs raw adamantine.
+Obok Lisedunib, Scholar cancels Make soap from oil: Needs oil-containing item.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Al†th Dumat¡kthag has created a masterpiece marble statue of Id Blockadestand!
+An animal has grown to become a Stray Cat.
+x2
+Iden Logemidok, Peasant cancels Make quire: Needs 1 sheet.
+Iden Logemidok, Peasant cancels Make scroll: Needs 1 sheet.
+Iden Logemidok, Peasant cancels Press plant slurry into paper sheet: Needs 150 non-pressed PAPER_SLURRY glob.
+Reg Oddomkovest, Planter cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Iden Logemidok, Peasant cancels Mash plant into slurry: Needs unrotten PRESS_PAPER_MAT-producing plants.
+Reg Oddomkovest, Planter cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+x2
+Kikrost Likottƒmol, Woodcrafter cancels Extract Metal Strands: Needs raw adamantine.
+x2
+x3
+x4
+Iden Logemidok, Peasant cancels Make quire: Needs 1 sheet.
+Iden Logemidok, Peasant cancels Make scroll: Needs 1 sheet.
+Iden Logemidok, Peasant cancels Press plant slurry into paper sheet: Needs 150 non-pressed PAPER_SLURRY glob.
+Iden Logemidok, Peasant cancels Mash plant into slurry: Needs unrotten PRESS_PAPER_MAT-producing plants.
+Kikrost Likottƒmol, Woodcrafter cancels Extract Metal Strands: Needs raw adamantine.
+x2
+x3
+x4
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 3333434
+ Seed: S9t2N1e6xxl9uWC2YgWR
+ History Seed: RnvAS1ZZGqQFr75jfIfS
+ Name Seed: zGPjJNXhresrDfpRSAsJ
+ Creature Seed: b2MEiDpBH1T67edEpljD
+Nothing has arrived on the calendar.
+The weather has cleared.
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+You have struck cobaltite!
+You have struck peridot!
+You have struck lapis lazuli!
+You have struck microcline!
+x2
+You have struck cobaltite!
+You have struck horn silver!
+You have struck native silver!
+You have struck pyrite!
+You have struck native silver!
+You have struck orthoclase!
+You have struck brown zircon!
+You have struck orthoclase!
+You have struck tetrahedrite!
+You have struck amethyst!
+You have struck cobaltite!
+You have struck yellow spessartine!
+You have struck orthoclase!
+x2
+You have struck microcline!
+You have discovered an expansive cavern deep underground.
+You have struck yellow grossular!
+You have struck rutile!
+You have struck galena!
+You have struck mica!
+You have struck native gold!
+x2
+x3
+You have struck microcline!
+You have struck native gold!
+You have struck microcline!
+You have struck rose quartz!
+You have struck native gold!
+You have struck lapis lazuli!
+You have struck microcline!
+x2
+x3
+x4
+You have struck native gold!
+You have struck pyrite!
+You have struck native gold!
+You have struck lapis lazuli!
+You have struck microcline!
+x2
+You have discovered an expansive cavern deep underground.
+You have struck native gold!
+You have struck microcline!
+You have struck native gold!
+You have struck lapis lazuli!
+x2
+x3
+You have struck microcline!
+You have struck native gold!
+You have struck microcline!
+You have struck native gold!
+You have struck microcline!
+You have struck amethyst!
+You have struck microcline!
+You have struck native gold!
+x2
+You have struck amethyst!
+You have struck pyrite!
+You have struck rose quartz!
+You have struck bone opal!
+You have struck rose quartz!
+You have struck purple spinel!
+You have struck native gold!
+x2
+x3
+x4
+x5
+You have struck lapis lazuli!
+You have struck rose quartz!
+You have struck amethyst!
+You have struck native gold!
+x2
+You have struck microcline!
+x2
+You have struck purple spinel!
+You have struck bone opal!
+x2
+You have struck native gold!
+You have struck lapis lazuli!
+You have struck pyrite!
+You have struck microcline!
+You have struck lapis lazuli!
+You have struck microcline!
+You have struck native gold!
+x2
+You have struck microcline!
+You have struck native gold!
+x2
+You have struck amethyst!
+x2
+You have struck microcline!
+You have struck native gold!
+You have struck amethyst!
+You have struck pyrite!
+You have struck microcline!
+You have struck lapis lazuli!
+You have struck microcline!
+You have struck purple spinel!
+You have struck microcline!
+You have struck native gold!
+x2
+x3
+You have struck rose quartz!
+You have struck native gold!
+You have struck rose quartz!
+You have struck microcline!
+You have struck rose quartz!
+You have struck microcline!
+x2
+You have struck lapis lazuli!
+You have struck native gold!
+You have struck lapis lazuli!
+You have struck rose quartz!
+You have struck lapis lazuli!
+You have struck amethyst!
+You have struck native gold!
+You have struck microcline!
+You have struck lapis lazuli!
+You have struck rose quartz!
+You have struck native gold!
+x2
+x3
+x4
+You have struck lapis lazuli!
+You have struck native gold!
+You have struck purple spinel!
+You have struck native gold!
+You have struck microcline!
+You have struck lapis lazuli!
+You have struck microcline!
+x2
+x3
+x4
+You have struck pyrite!
+You have struck microcline!
+You have struck lapis lazuli!
+You have struck pyrite!
+You have struck microcline!
+You have struck native gold!
+You have struck microcline!
+You have struck pyrite!
+You have struck microcline!
+You have struck lapis lazuli!
+You have struck native gold!
+You have struck pyrite!
+You have struck native gold!
+You have struck microcline!
+x2
+You have struck rose quartz!
+x2
+You have struck microcline!
+You have struck native gold!
+You have struck purple spinel!
+You have struck native gold!
+You have struck microcline!
+x2
+x3
+You have struck native gold!
+You have struck pyrite!
+You have struck bone opal!
+You have struck microcline!
+You have struck pyrite!
+You have struck microcline!
+x2
+You have struck pyrite!
+You have struck amethyst!
+You have struck lapis lazuli!
+You have struck native gold!
+You have struck lapis lazuli!
+You have struck amethyst!
+You have struck native gold!
+You have struck microcline!
+You have struck native gold!
+You have struck microcline!
+You have struck native gold!
+You have struck rose quartz!
+You have struck microcline!
+You have struck bone opal!
+You have struck rose quartz!
+You have struck native gold!
+You have struck microcline!
+You have struck native gold!
+x2
+You have struck amethyst!
+You have struck lapis lazuli!
+You have struck microcline!
+x2
+x3
+You have struck purple spinel!
+You have struck lapis lazuli!
+You have struck microcline!
+You have struck native gold!
+You have struck rose quartz!
+You have struck native gold!
+You have struck microcline!
+You have struck purple spinel!
+You have struck lapis lazuli!
+You have struck microcline!
+You have struck lapis lazuli!
+You have struck rose quartz!
+You have struck microcline!
+You have struck lapis lazuli!
+You have struck native gold!
+x2
+You have struck rose quartz!
+You have struck lapis lazuli!
+You have struck native gold!
+You have struck pyrite!
+x2
+You have struck microcline!
+You have struck lapis lazuli!
+x2
+You have struck purple spinel!
+You have struck rose quartz!
+You have struck purple spinel!
+You have struck native gold!
+You have struck lapis lazuli!
+You have struck amethyst!
+You have struck purple spinel!
+You have struck pyrite!
+Cog Oddomiseth, Hammerdwarf is visiting.
+It is now summer.
+Kogan Iklistk–buk, Farmer cancels Give Food: No food available.
+Some migrants have arrived.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Kogan Iklistk–buk, Farmer cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Kel Avuzfikod, Mechanic cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+You have struck native gold!
+You have struck microcline!
+You have struck amethyst!
+You have struck microcline!
+You have struck native gold!
+x2
+Poults have hatched.
+You have struck native gold!
+You have struck microcline!
+x2
+x3
+You have struck amethyst!
+You have struck microcline!
+Poults have hatched.
+You have struck microcline!
+You have struck native gold!
+You have struck pyrite!
+Poults have hatched.
+Goslings have hatched.
+Poults have hatched.
+A buzzard has stolen (plump helmets [3])!
+You have struck native gold!
+x2
+You have struck microcline!
+You have struck native gold!
+You have struck microcline!
+You have struck native gold!
+You have struck microcline!
+x2
+You have struck native gold!
+There is nothing to catch in the western swamps.
+Kogan Iklistk–buk, Farmer cancels Give Water: Need empty bucket.
+You have discovered an expansive cavern deep underground.
+You have struck rose quartz!
+You have struck pyrite!
+You have struck native gold!
+You have struck microcline!
+You have struck pyrite!
+You have struck amethyst!
+You have struck lapis lazuli!
+You have struck purple spinel!
+x2
+You have struck pyrite!
+You have struck rose quartz!
+You have struck native gold!
+Zuglar Ed‰mk–buk, expedition leader cancels Dig: Inappropriate dig square.
+x2
+You have struck native gold!
+You have struck purple spinel!
+You have struck microcline!
+You have struck pyrite!
+You have struck amethyst!
+Sazir Mengalis, Miner cancels Dig: Inappropriate dig square.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+x2
+x3
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+x2
+x3
+Sazir Mengalis, Miner cancels Give Food: No food available.
+x2
+x3
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+x2
+x3
+x4
+x5
+x6
+x7
+Oddom Dod¢ktishak, Miller cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+You have struck microcline!
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+You have struck native gold!
+You have struck microcline!
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+You have struck microcline!
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+x2
+x3
+Digging designation cancelled: warm stone located.
+You have discovered a great magma sea.
+Digging designation cancelled: warm stone located.
+Raw adamantine!  Praise the miners!
+x2
+x3
+** Loading Fortress **
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+x2
+x3
+x4
+x5
+x6
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+x2
+Sazir Mengalis, Miner cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Domas Betankol, Mechanic cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: Hunting vermin for food.
+Domas Betankol, Mechanic cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Uvash Usƒnadil, Gem Cutter cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+x2
+Sazir Mengalis, Miner cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Uvash Usƒnadil, Gem Cutter cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Domas Betankol, Mechanic cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Kogan Iklistk–buk, Farmer cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Uvash Usƒnadil, Gem Cutter cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Oddom Dod¢ktishak, Miller cancels Give Food: No food available.
+Uvash Usƒnadil, Gem Cutter cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Oddom Dod¢ktishak, Miller cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Sazir Mengalis, Miner cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Reg Gannil, Farmer cancels Give Food: No food available.
+Uvash Usƒnadil, Gem Cutter cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Oddom Dod¢ktishak, Miller cancels Give Food: No food available.
+Uvash Usƒnadil, Gem Cutter cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Uvash Usƒnadil, Gem Cutter cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Kel Avuzfikod, Mechanic cancels Give Food: No food available.
+Oddom Dod¢ktishak, Miller cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Uvash Usƒnadil, Gem Cutter cancels Give Food: No food available.
+Ubbul ‹dathoslan, Woodworker cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Tekkud Keskalsulus, Farmer cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Oddom Dod¢ktishak, Miller cancels Give Food: No food available.
+Uvash Usƒnadil, Gem Cutter cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+x2
+Oddom Dod¢ktishak, Miller cancels Give Food: No food available.
+Uvash Usƒnadil, Gem Cutter cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+x2
+Kel Avuzfikod, Mechanic cancels Give Food: No food available.
+Oddom Dod¢ktishak, Miller cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+x2
+Kel Avuzfikod, Mechanic cancels Give Food: No food available.
+Oddom Dod¢ktishak, Miller cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Food: No food available.
+Kel Avuzfikod, Mechanic cancels Give Food: No food available.
+x2
+Oddom Dod¢ktishak, Miller cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Kel Avuzfikod, Mechanic cancels Give Food: No food available.
+Oddom Dod¢ktishak, Miller cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Libash Dakaserush, Fishery Worker cancels Give Food: No food available.
+Kel Avuzfikod, Mechanic cancels Give Food: No food available.
+Oddom Dod¢ktishak, Miller cancels Give Food: No food available.
+Reg Gannil, Farmer cancels Give Food: No food available.
+Oddom Dod¢ktishak, Miller cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+Domas Betankol, Mechanic cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+x2
+x3
+Sazir Mengalis, Miner cancels Give Food: No food available.
+x2
+x3
+x4
+Kogan Iklistk–buk, Farmer cancels Give Food: No food available.
+D“bar Fikodvutram, Trader cancels Give Food: No food available.
+x2
+Domas Betankol, Mechanic cancels Give Food: No food available.
+x2
+x3
+x4
+x5
+Uvash Usƒnadil, Gem Cutter cancels Give Food: No food available.
+Zuglar Ed‰mk–buk, expedition leader cancels Dig: Hunting vermin for food.
+The Stray Goose (Tame) has been slaughtered.
+The Stray Gander (Tame) has been slaughtered.
+The Stray Horse (Tame) has been slaughtered.
+x2
+The Stray Baby Llama (Tame) has been slaughtered.
+You have struck microcline!
+You have struck amethyst!
+You have struck native gold!
+You have struck bone opal!
+You have struck lapis lazuli!
+x2
+You have struck amethyst!
+You have struck rose quartz!
+You have struck native gold!
+x2
+You have struck microcline!
+x2
+You have struck native gold!
+You have struck microcline!
+You have struck lapis lazuli!
+You have struck purple spinel!
+You have struck pyrite!
+You have struck lapis lazuli!
+You have struck pyrite!
+x2
+You have struck native gold!
+You have struck microcline!
+x2
+You have struck purple spinel!
+You have struck lapis lazuli!
+You have struck microcline!
+You have struck native gold!
+x2
+You have struck rose quartz!
+You have struck microcline!
+You have struck native gold!
+You have struck microcline!
+You have struck native gold!
+You have struck microcline!
+x2
+You have struck lapis lazuli!
+You have struck microcline!
+You have struck lapis lazuli!
+You have struck native gold!
+x2
+You have struck microcline!
+x2
+You have struck native gold!
+You have struck microcline!
+You have struck rose quartz!
+You have struck microcline!
+You have struck lapis lazuli!
+You have struck microcline!
+You have struck native gold!
+You have struck microcline!
+You have struck native gold!
+x2
+You have struck purple spinel!
+x2
+You have struck native gold!
+You have struck pyrite!
+You have struck purple spinel!
+You have struck lapis lazuli!
+You have struck native gold!
+You have struck rose quartz!
+You have struck amethyst!
+You have struck microcline!
+You have struck lapis lazuli!
+You have struck microcline!
+x2
+You have struck amethyst!
+You have struck lapis lazuli!
+You have struck microcline!
+You have struck lapis lazuli!
+You have struck native gold!
+You have struck amethyst!
+You have struck microcline!
+You have struck native gold!
+You have struck lapis lazuli!
+You have struck native gold!
+You have struck microcline!
+You have struck native gold!
+You have struck rose quartz!
+You have struck microcline!
+You have struck amethyst!
+You have struck microcline!
+x2
+You have struck amethyst!
+You have struck native gold!
+You have struck microcline!
+x2
+x3
+You have struck native gold!
+You have struck rose quartz!
+You have struck bone opal!
+You have struck microcline!
+You have struck amethyst!
+You have struck rose quartz!
+You have struck amethyst!
+You have struck native gold!
+You have struck lapis lazuli!
+You have struck rose quartz!
+You have struck native gold!
+You have struck purple spinel!
+You have struck amethyst!
+You have struck rose quartz!
+You have struck native gold!
+You have struck microcline!
+You have struck native gold!
+x2
+You have struck purple spinel!
+You have struck microcline!
+x2
+You have struck purple spinel!
+You have struck pyrite!
+You have struck native gold!
+You have struck rose quartz!
+You have struck native gold!
+You have struck microcline!
+You have struck lapis lazuli!
+You have struck native gold!
+You have struck purple spinel!
+You have struck native gold!
+x2
+You have struck lapis lazuli!
+You have struck native gold!
+You have struck lapis lazuli!
+x2
+x3
+You have struck bone opal!
+You have struck lapis lazuli!
+x2
+You have struck microcline!
+You have struck native gold!
+x2
+You have struck microcline!
+You have struck bone opal!
+You have struck microcline!
+You have struck native gold!
+You have struck rose quartz!
+You have struck amethyst!
+You have struck native gold!
+x2
+You have struck bone opal!
+You have struck lapis lazuli!
+You have struck rose quartz!
+You have struck bone opal!
+You have struck rose quartz!
+You have struck microcline!
+You have struck lapis lazuli!
+You have struck native gold!
+x2
+You have struck pyrite!
+x2
+You have struck lapis lazuli!
+You have struck amethyst!
+You have struck microcline!
+x2
+x3
+x4
+You have struck lapis lazuli!
+You have struck rose quartz!
+You have struck lapis lazuli!
+You have struck microcline!
+You have struck pyrite!
+You have struck microcline!
+You have struck pyrite!
+x2
+You have struck lapis lazuli!
+You have struck native gold!
+You have struck lapis lazuli!
+You have struck pyrite!
+You have struck rose quartz!
+You have struck native gold!
+You have struck pyrite!
+x2
+You have struck native gold!
+You have struck microcline!
+You have struck lapis lazuli!
+You have struck microcline!
+You have struck amethyst!
+You have struck microcline!
+You have struck purple spinel!
+You have struck native gold!
+You have struck microcline!
+You have struck lapis lazuli!
+You have struck native gold!
+You have struck pyrite!
+You have struck lapis lazuli!
+You have struck amethyst!
+You have struck purple spinel!
+You have struck microcline!
+You have struck purple spinel!
+You have struck pyrite!
+You have struck microcline!
+x2
+You have struck native gold!
+You have struck lapis lazuli!
+You have struck rose quartz!
+You have struck microcline!
+You have struck native gold!
+Kogan Iklistk–buk, Farmer cancels Plant Seeds: Needs plump helmet spawn.
+x2
+Autumn has come.
+Kogan Iklistk–buk, Farmer cancels Plant Seeds: Needs plump helmet spawn.
+x2
+You have struck bone opal!
+Kogan Iklistk–buk, Farmer cancels Plant Seeds: Needs plump helmet spawn.
+x2
+x3
+x4
+x5
+x6
+The outpost liaison Mosus Limƒrbim from Aban Solam has arrived.
+A caravan from Aban Solam has arrived.
+Merchants have arrived and are unloading their goods.
+D“bar Fikodvutram, broker cancels Give Water: Need empty bucket.
+x2
+x3
+x4
+x5
+Kogan Iklistk–buk, Farmer cancels Give Water: Need empty bucket.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Water: Need empty bucket.
+D“bar Fikodvutram, broker cancels Give Water: Need empty bucket.
+x2
+Kel Avuzfikod, Mechanic cancels Give Water: Need empty bucket.
+Zuglar Ed‰mk–buk, expedition leader cancels Give Water: Need empty bucket.
+x2
+x3
+x4
+x5
+x6
+x7
+Ubbul ‹dathoslan, Woodworker cancels Give Water: Need empty bucket.
+Reg Gannil, Farmer cancels Give Water: Need empty bucket.
+Ubbul ‹dathoslan, Woodworker cancels Give Water: Need empty bucket.
+Kel Avuzfikod, Mechanic cancels Give Water: Need empty bucket.
+x2
+x3
+Poults have hatched.
+Kel Avuzfikod, Mechanic cancels Give Water: Need empty bucket.
+Tekkud Keskalsulus, Farmer cancels Give Water: Need empty bucket.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+Oddom Dod¢ktishak, Miller cancels Give Water: Need empty bucket.
+x2
+x3
+x4
+x5
+x6
+The stray cat has been stung by a honey bee!
+Goslings have hatched.
+Poults have hatched.
+The merchants from Aban Solam will be leaving soon.
+The merchants from Aban Solam have embarked on their journey.
+D“bar Fikodvutram, broker cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+You have struck lapis lazuli!
+You have struck pyrite!
+Kogan Iklistk–buk, Farmer cancels Plant Seeds: Needs plump helmet spawn.
+x2
+x3
+x4
+You have struck rose quartz!
+You have struck pyrite!
+Sazir Mengalis, Miner cancels Dig Channel: Dangerous terrain.
+Libash Dakaserush, Fishery Worker cancels Store Item in Stockpile: Item inaccessible.
+Uvash Usƒnadil, Gem Cutter cancels Store Item in Stockpile: Item inaccessible.
+Sazir Mengalis, Miner cancels Dig Channel: Dangerous terrain.
+Stray Cat (Tame) has given birth to kittens.
+Sazir Mengalis, Miner cancels Dig Channel: Dangerous terrain.
+Some migrants have arrived.
+You have struck lapis lazuli!
+You have struck amethyst!
+The flying ({bismuth bronze bolt}) strikes the giant rat in the right rear leg, chipping the bone!
+A sensory nerve has been severed and a tendon has been torn!
+The ranger stands up.
+The flying ({bismuth bronze bolt}) strikes the rutherer in the left front foot, chipping the bone!
+A ligament has been torn and a tendon has been torn!
+The force pulls the left front leg!
+The flying ({bismuth bronze bolt}) strikes the rutherer in the left front leg, fracturing the bone!
+A tendon has been torn!
+The ranger stands up.
+The flying ({bismuth bronze bolt}) strikes the rutherer in the lower body, tearing the muscle and tearing the pancreas!
+The ranger stands up.
+There is nothing to catch in the western swamps.
+Kogan Iklistk–buk has become a Planter.
+A giant rat has stolen horse meat biscuits [14]!
+Cog SubetŠzum has become a Cook.
+Tekkud Keskalsulus, Farmer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Kogan Iklistk–buk, Planter cancels Plant Seeds: Needs plump helmet spawn.
+x2
+Winter is upon you.
+Cog SubetŠzum, Cook cancels Prepare Easy Meal: Needs unrotten cookable solid item.
+x2

@@ -867,3 +867,7 @@ removed erroneous unit occupancy flag
 DOUBLE TAGGED ITEM: Store Item in Stockpile, Xuspgas Olng”ngostong's upper front tooth
 loop path fail: <same square> cat,96,105,16 -> 32,27,9: Id #17326:Path Goal Seek Station:Station Mill Building at 90,107,14
 path fail: turkey hen,52,91,147 -> 52,94,146: Id #976:Path Goal Seek Station:Station None at 52,91,147
+loop path fail: <same square> turkey hen,52,80,164 -> 55,83,164: Id #12173:Path Goal Seek Station:Station Owner at 56,84,164
+loop path fail: <same square> drake,52,83,164 -> 51,84,164: Id #12078:Path Goal Seek Station:Station Mill Building at 54,75,164
+loop path fail: <same square> blue peahen,56,79,164 -> 46,102,24: Id #12168:Path Goal Seek Station:Station Owner at 46,102,24
+loop path fail: <same square> turkey gobbler,50,76,164 -> 58,82,164: Id #12225:Path Goal Seek Station:Station Owner at 56,82,164
