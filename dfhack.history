@@ -1,3 +1,33 @@
+ls
+die
+fastdwarf 1 1
+die
+prospect
+ls
+quicksave
+fastdwarf 1 0
+quicksave
+fastdwarf 1 0
+die
+quicksave
+prospect
+fastdwarf 1 0
+quicksave
+fastdwarf 0 0
+fastdwarf 1 1
+quicksave
+fastdwarf 0 0
+fastdwarf 1 0
+fastdwarf 1 1
+quicksave
+ls
+quicksave
+tiletypes
+tiletype
+quicksave
+fastdwarf 1 0
+quicksave
+die
 quicksave
 fastdwarf 0 0
 fastdwarf 1 1
@@ -68,4 +98,3 @@ ls
 quicksave
 embark-assistant
 help embark-assistant
-ls

@@ -840,3 +840,30 @@ path fail: cat,89,94,16 -> 28,64,175: Id #16604:Path Goal Seek Station:Station N
 path fail: dwarf,Pickup Equipment,91,98,18 -> 132,45,173: Id #2735:Path Goal Grab Uniform:Station Mill Building at 84,102,14
 path fail: dwarf,Load Cage Trap,94,110,16 -> 74,76,174: Id #15188:Path Goal Work at Building:Station Mill Building at 83,96,14
 path fail: human,Load Cage Trap,89,95,16 -> 78,76,174: Id #4636:Path Goal Work at Building:Station Mill Building at 91,105,14
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silty clay
+loop path fail: <same square> dwarf,Eat,95,105,16 -> 89,108,14: Id #15547:Path Goal Seek Eating Chair 2:Station Insane Mood at 76,63,169
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Xuspgas Olng”ngostong's upper front tooth
+loop path fail: <same square> cat,96,105,16 -> 32,27,9: Id #17326:Path Goal Seek Station:Station Mill Building at 90,107,14
+path fail: turkey hen,52,91,147 -> 52,94,146: Id #976:Path Goal Seek Station:Station None at 52,91,147

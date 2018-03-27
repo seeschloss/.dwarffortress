@@ -335,12 +335,4 @@ UNKNOWN CLASS 'ack21dfhack_lua_viewscreenE': vtable = 0x7ffff7cee3b8
 Invoking: gui/prerelease-warning
 loaded map in prerelease build
 Could not load script: onLoad.init-example
-Invoking: quicksave
-Invoking: quicksave
-UNKNOWN CLASS 'viewscreen_unitlaborsst': vtable = 0x7fffdbffec08
-Invoking: quicksave
-Invoking: quicksave
-Invoking: fastdwarf 1 1
-Invoking: fastdwarf 0 0
-Invoking: quicksave
-Invoking: quicksave
+Invoking: ls
