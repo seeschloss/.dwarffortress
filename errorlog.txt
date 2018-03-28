@@ -871,3 +871,12 @@ loop path fail: <same square> turkey hen,52,80,164 -> 55,83,164: Id #12173:Path 
 loop path fail: <same square> drake,52,83,164 -> 51,84,164: Id #12078:Path Goal Seek Station:Station Mill Building at 54,75,164
 loop path fail: <same square> blue peahen,56,79,164 -> 46,102,24: Id #12168:Path Goal Seek Station:Station Owner at 46,102,24
 loop path fail: <same square> turkey gobbler,50,76,164 -> 58,82,164: Id #12225:Path Goal Seek Station:Station Owner at 56,82,164
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: blind cave ogre,137,38,25 -> 143,35,24: Id #12447:Path Goal Seek Station:Station Head for Edge at 143,35,24
+path fail: draltha,24,128,107 -> 18,133,108: Id #12466:Path Goal Marauder Mill:Station None at 24,128,107
