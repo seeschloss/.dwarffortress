@@ -880,3 +880,23 @@ removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
 path fail: blind cave ogre,137,38,25 -> 143,35,24: Id #12447:Path Goal Seek Station:Station Head for Edge at 143,35,24
 path fail: draltha,24,128,107 -> 18,133,108: Id #12466:Path Goal Marauder Mill:Station None at 24,128,107
+path fail: horse,133,138,168 -> 137,142,167: Id #12572:Path Goal Seek Station Flood:Station None at 137,142,167
+path fail: horse,133,138,168 -> 137,142,167: Id #12577:Path Goal Seek Station Flood:Station None at 137,142,167
+path fail: cat,67,95,54 -> 67,92,50: Id #12069:Path Goal Seek Station:Station None at 67,96,54
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: dwarf,Construct cloth Bag,54,105,167 -> 28,100,24: Id #5710:Path Goal Work at Building:Station Mill Building at 56,90,23
+path fail: dwarf,Fish,67,92,158 -> 21,56,173: Id #7374:Path Goal Start Fish:Station Mill Building at 63,80,23
+path fail: dwarf,Construct cloth Bag,67,92,47 -> 54,105,167: Id #9199:Path Goal Grab Job Resources:Station Mill Building at 59,89,23
+path fail: dwarf,Fish,67,92,125 -> 21,65,173: Id #9511:Path Goal Start Fish:Station Mill Building at 64,86,23
+path fail: dwarf,Fish,67,92,123 -> 14,58,173: Id #8624:Path Goal Start Fish:Station Mill Building at 62,84,23
+path fail: dwarf,Fish,67,92,131 -> 24,63,173: Id #8522:Path Goal Start Fish:Station Mill Building at 59,81,23
+loop path fail: <same square> human,58,83,23 -> 58,81,23: Id #3969:Path Goal Performance:Station Mill Building at 65,80,23
+loop path fail: <same square> dwarf,59,87,23 -> 58,85,23: Id #9500:Path Goal Performance:Station Mill Building at 60,80,23
