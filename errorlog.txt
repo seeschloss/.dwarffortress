@@ -900,3 +900,180 @@ path fail: dwarf,Fish,67,92,123 -> 14,58,173: Id #8624:Path Goal Start Fish:Stat
 path fail: dwarf,Fish,67,92,131 -> 24,63,173: Id #8522:Path Goal Start Fish:Station Mill Building at 59,81,23
 loop path fail: <same square> human,58,83,23 -> 58,81,23: Id #3969:Path Goal Performance:Station Mill Building at 65,80,23
 loop path fail: <same square> dwarf,59,87,23 -> 58,85,23: Id #9500:Path Goal Performance:Station Mill Building at 60,80,23
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> cat,67,92,16 -> 128,81,167: Id #12397:Path Goal Seek Station:Station Owner at 63,101,17
+loop path fail: <same square> dwarf,50,82,23 -> 41,79,23: Id #3849:Path Goal Performance:Station Mill Building at 46,88,23
+loop path fail: <same square> dwarf,49,81,23 -> 41,79,23: Id #3849:Path Goal Performance:Station Mill Building at 46,88,23
+loop path fail: <same square> dwarf,Construct Building,66,87,23 -> 57,110,17: Id #3561:Path Goal Drop Off Job Items:Station Mill Building at 59,82,23
+loop path fail: <same square> dwarf,Store Item in Stockpile,67,92,17 -> 53,100,171: Id #9237:Path Goal Seek Item for Storage:Station Mill Building at 57,81,23
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: dwarf,Construct Building,83,138,65 -> 83,134,65: Id #9234:Path Goal Main Job Building:Station Mill Building at 60,86,23
+path fail: dwarf,Construct Building,67,92,55 -> 83,135,65: Id #9500:Path Goal Main Job Building:Station Mill Building at 49,88,23
+loop path fail: <same square> dwarf,53,86,23 -> 62,80,23: Id #4197:Path Goal Performance:Station Mill Building at 65,84,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *yellow sand Bag (rope reed)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, yellow sand Bag (giant cave toad leather)
+loop path fail: <same square> dwarf,Store Item in Stockpile,71,102,16 -> 80,99,16: Id #12061:Path Goal Seek Item for Storage:Station Mill Building at 60,87,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, yellow sand Bag (pig tail)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -yellow sand Bag (pig tail)-
+loop path fail: <same square> dwarf,51,85,23 -> 40,89,23: Id #4925:Path Goal Performance:Station Mill Building at 43,88,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, yellow sand Bag (rope reed)
+loop path fail: <same square> dwarf,Drink,67,93,16 -> 53,137,24: Id #9511:Path Goal Start Water Job Drink Area:Station Mill Building at 60,91,23
+loop path fail: <same square> cat,51,97,24 -> 65,82,23: Id #12637:Path Goal Seek Station:Station Owner at 64,88,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðyellow sand Bag (kenaf)ð
+loop path fail: <same square> dwarf,57,87,23 -> 65,89,23: Id #2838:Path Goal Performance:Station Mill Building at 58,82,23
+loop path fail: <same square> elf,51,89,23 -> 39,88,23: Id #5865:Path Goal Performance:Station Mill Building at 53,81,23
+loop path fail: <same square> dwarf,62,85,23 -> 45,83,23: Id #3818:Path Goal Performance:Station Mill Building at 50,79,23
+loop path fail: <same square> dwarf,Store Item in Stockpile,47,87,23 -> 52,104,171: Id #7306:Path Goal Seek Item for Storage:Station Mill Building at 47,86,23
+loop path fail: <same square> dwarf,56,79,23 -> 65,79,23: Id #3802:Path Goal Performance:Station Mill Building at 42,85,23
+loop path fail: <same square> dwarf,48,83,23 -> 60,82,23: Id #1697:Path Goal Performance:Station Mill Building at 51,89,23
+loop path fail: <same square> dwarf,55,91,23 -> 51,91,23: Id #4561:Path Goal Performance:Station Mill Building at 43,90,23
+loop path fail: <same square> dwarf,44,81,23 -> 51,85,23: Id #4577:Path Goal Seek Station:Station Mill Building at 35,83,23
+loop path fail: <same square> dwarf,54,88,23 -> 43,80,23: Id #4945:Path Goal Performance:Station Mill Building at 49,89,23
+loop path fail: <same square> elf,51,81,23 -> 39,81,23: Id #5891:Path Goal Performance:Station Mill Building at 53,88,23
+loop path fail: <same square> human,46,86,23 -> 45,86,23: Id #9870:Path Goal Performance:Station Mill Building at 62,86,23
+loop path fail: <same square> dwarf,48,88,23 -> 43,88,23: Id #4210:Path Goal Performance:Station Mill Building at 55,81,23
+loop path fail: <same square> dwarf,Construct rock Door,54,87,23 -> 42,95,24: Id #5493:Path Goal Work at Building:Station Mill Building at 36,90,23
+loop path fail: <same square> dwarf,52,81,23 -> 62,85,23: Id #4494:Path Goal Performance:Station Mill Building at 39,79,23
+loop path fail: <same square> blue peahen,56,86,23 -> 46,79,23: Id #12168:Path Goal Seek Station:Station Owner at 43,85,23
+loop path fail: <same square> dwarf,60,90,23 -> 43,87,23: Id #4183:Path Goal Seek Station:Station Mill Building at 35,88,23
+loop path fail: <same square> dwarf,Construct rock Door,45,96,24 -> 42,95,24: Id #12064:Path Goal Work at Building:Station Mill Building at 42,84,23
+loop path fail: <same square> dwarf,61,86,23 -> 43,90,23: Id #4278:Path Goal Performance:Station Mill Building at 65,84,23
+loop path fail: <same square> dwarf,53,90,23 -> 41,90,23: Id #7306:Path Goal Seek Station:Station Mill Building at 53,82,23
+loop path fail: <same square> dwarf,Make Lye,58,89,23 -> 12,100,24: Id #2687:Path Goal Grab Job Resources:Station Mill Building at 41,89,23
+loop path fail: <same square> dwarf,50,80,23 -> 48,88,23: Id #7310:Path Goal Performance:Station Mill Building at 42,84,23
+loop path fail: <same square> dwarf,48,81,23 -> 59,80,23: Id #9495:Path Goal Seek Station:Station Mill Building at 59,80,23
+loop path fail: <same square> dwarf,54,88,23 -> 56,80,23: Id #4917:Path Goal Performance:Station Mill Building at 38,91,23
+loop path fail: <same square> dwarf,60,87,23 -> 60,91,23: Id #4949:Path Goal Seek Station:Station Mill Building at 54,87,23
+loop path fail: <same square> dwarf,48,84,23 -> 62,88,23: Id #4721:Path Goal Seek Station:Station Mill Building at 36,80,23
+loop path fail: <same square> dwarf,47,84,23 -> 56,84,23: Id #3818:Path Goal Performance:Station Mill Building at 40,81,23
+loop path fail: <same square> dwarf,47,83,23 -> 58,83,23: Id #8621:Path Goal Performance:Station Mill Building at 42,87,23
+loop path fail: <same square> dwarf,43,81,23 -> 42,81,23: Id #3057:Path Goal Performance:Station Mill Building at 49,87,23
+loop path fail: <same square> dwarf,Pen/Pasture Stray Baby Llama (Tame),57,83,23 -> 61,65,171: Id #9804:Path Goal Grab Cage Unit:Station Mill Building at 49,84,23
+loop path fail: <same square> cat,46,80,23 -> 44,88,23: Id #12397:Path Goal Seek Station:Station Owner at 52,86,23
+loop path fail: <same square> cat,47,85,23 -> 48,85,23: Id #13146:Path Goal Seek Station:Station Owner at 52,81,23
+loop path fail: <same square> human,53,80,23 -> 57,83,23: Id #4411:Path Goal Performance:Station Mill Building at 41,79,23
+loop path fail: <same square> dwarf,49,89,23 -> 58,79,23: Id #2612:Path Goal Performance:Station Mill Building at 51,85,23
+loop path fail: <same square> dwarf,54,89,23 -> 41,85,23: Id #6148:Path Goal Performance:Station Mill Building at 36,84,23
+loop path fail: <same square> dwarf,47,82,23 -> 51,82,23: Id #4721:Path Goal Performance:Station Mill Building at 46,90,23
+loop path fail: <same square> dwarf,Store Item in Barrel,61,87,23 -> 42,107,24: Id #3063:Path Goal Seek Item for Storage:Station None at 59,79,23
+loop path fail: <same square> human,40,86,23 -> 39,84,23: Id #3919:Path Goal Performance:Station Mill Building at 60,82,23
+loop path fail: <same square> cat,47,85,23 -> 49,79,23: Id #12638:Path Goal Seek Station:Station Owner at 45,84,23
+loop path fail: <same square> dwarf,62,89,23 -> 59,90,23: Id #2802:Path Goal Seek Station:Station Mill Building at 50,83,23
+loop path fail: <same square> dwarf,58,86,23 -> 52,79,23: Id #3869:Path Goal Performance:Station Mill Building at 59,89,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+loop path fail: <same square> dwarf,Make clay bricks,66,99,16 -> 70,111,17: Id #9767:Path Goal Grab Job Resources:Station Mill Building at 58,81,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+loop path fail: <same square> dwarf,49,84,23 -> 57,85,23: Id #8528:Path Goal Performance:Station Mill Building at 41,87,23
+loop path fail: <same square> elf,53,91,23 -> 43,81,23: Id #2607:Path Goal Seek Station:Station Mill Building at 44,82,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+loop path fail: <same square> dwarf,57,81,23 -> 55,91,23: Id #792:Path Goal Performance:Station Mill Building at 40,82,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+loop path fail: <same square> dog,54,86,23 -> 41,89,23: Id #12799:Path Goal Seek Station:Station Mill Building at 57,80,23
+loop path fail: <same square> dog,43,88,23 -> 39,79,23: Id #13303:Path Goal Seek Station:Station Owner at 41,87,23
+loop path fail: <same square> dwarf,41,88,23 -> 59,90,23: Id #5022:Path Goal Seek Station:Station Mill Building at 62,86,23
+loop path fail: <same square> elf,45,83,23 -> 44,79,23: Id #5886:Path Goal Performance:Station Mill Building at 46,91,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+loop path fail: <same square> dwarf,52,80,23 -> 60,89,23: Id #4598:Path Goal Performance:Station Mill Building at 37,82,23
+loop path fail: <same square> dwarf,56,84,23 -> 60,90,23: Id #4911:Path Goal Performance:Station Mill Building at 44,89,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+loop path fail: <same square> dog,36,86,23 -> 52,83,23: Id #12799:Path Goal Seek Station:Station Mill Building at 52,83,23
+path fail: dwarf,Construct Building,78,141,72 -> 83,141,76: Id #7374:Path Goal Main Job Building:Station Mill Building at 42,89,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+loop path fail: <same square> dwarf,56,85,23 -> 63,79,23: Id #4144:Path Goal Performance:Station Mill Building at 47,90,23
+loop path fail: <same square> dwarf,57,90,23 -> 61,91,23: Id #7310:Path Goal Performance:Station Mill Building at 43,82,23
+loop path fail: <same square> dwarf,57,87,23 -> 41,83,23: Id #4721:Path Goal Performance:Station Mill Building at 46,90,23
+loop path fail: <same square> cat,54,87,23 -> 47,84,23: Id #13014:Path Goal Seek Station:Station Owner at 45,82,23
+loop path fail: <same square> elf,46,82,23 -> 62,87,23: Id #5888:Path Goal Performance:Station Mill Building at 53,82,23
+loop path fail: <same square> cat,44,82,23 -> 68,103,23: Id #13228:Path Goal Seek Station:Station Owner at 52,82,23
+loop path fail: <same square> dwarf,41,87,23 -> 36,82,23: Id #8621:Path Goal Performance:Station Mill Building at 51,84,23
+loop path fail: <same square> dwarf,64,87,23 -> 37,87,23: Id #6982:Path Goal Seek Station:Station Mill Building at 37,86,23
+loop path fail: <same square> dwarf,40,86,23 -> 38,81,23: Id #6430:Path Goal Performance:Station Mill Building at 54,85,23
+loop path fail: <same square> elf,Eat,56,87,23 -> 48,97,24: Id #2613:Path Goal Seek Food Item:Station Mill Building at 38,86,23
+loop path fail: <same square> dwarf,59,84,23 -> 57,87,23: Id #4302:Path Goal Performance:Station Mill Building at 59,82,23
+loop path fail: <same square> dwarf,51,91,23 -> 63,83,23: Id #7532:Path Goal Performance:Station Mill Building at 63,83,23
+loop path fail: <same square> dwarf,48,85,23 -> 59,86,23: Id #4278:Path Goal Performance:Station Mill Building at 58,81,23
+loop path fail: <same square> dwarf,56,86,23 -> 59,85,23: Id #4701:Path Goal Performance:Station Mill Building at 64,85,23
+loop path fail: <same square> cat,64,87,23 -> 54,85,23: Id #12954:Path Goal Seek Station:Station Mill Building at 47,80,23
+loop path fail: <same square> dwarf,54,82,23 -> 56,85,23: Id #2689:Path Goal Seek Station:Station Mill Building at 55,84,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+loop path fail: <same square> dwarf,49,88,23 -> 59,91,23: Id #8528:Path Goal Performance:Station Mill Building at 36,82,23
+loop path fail: <same square> dwarf,49,89,23 -> 59,91,23: Id #8528:Path Goal Performance:Station Mill Building at 36,82,23
+loop path fail: <same square> dwarf,47,85,23 -> 61,85,23: Id #5710:Path Goal Performance:Station Mill Building at 35,81,23
+loop path fail: <same square> dwarf,60,89,23 -> 58,81,23: Id #4302:Path Goal Seek Station:Station Mill Building at 61,94,23
+loop path fail: <same square> dwarf,51,88,23 -> 59,89,23: Id #5036:Path Goal Performance:Station Mill Building at 48,83,23
+loop path fail: <same square> dwarf,43,84,23 -> 54,84,23: Id #2689:Path Goal Seek Station:Station Mill Building at 55,84,23
+loop path fail: <same square> dwarf,Store Item in Bin,59,87,23 -> 64,111,17: Id #9688:Path Goal Seek Item for Storage:Station Mill Building at 56,90,23
+loop path fail: <same square> elf,61,87,23 -> 43,85,23: Id #2607:Path Goal Seek Station:Station Mill Building at 56,86,23
+loop path fail: <same square> human,57,86,23 -> 36,89,23: Id #3919:Path Goal Performance:Station Mill Building at 52,80,23
+loop path fail: <same square> dwarf,Store Item in Stockpile,59,87,23 -> 54,107,171: Id #3057:Path Goal Seek Item for Storage:Station Mill Building at 54,79,23
+loop path fail: <same square> dwarf,42,88,23 -> 52,88,23: Id #8667:Path Goal Performance:Station Mill Building at 47,81,23
+loop path fail: <same square> dwarf,Store Item in Stockpile,57,80,23 -> 54,103,171: Id #4024:Path Goal Seek Item for Storage:Station Mill Building at 60,81,23
+loop path fail: <same square> dwarf,54,82,23 -> 63,86,23: Id #4701:Path Goal Seek Station:Station Mill Building at 64,85,23
+loop path fail: <same square> elf,52,82,23 -> 53,86,23: Id #5890:Path Goal Performance:Station Mill Building at 38,85,23
+loop path fail: <same square> dwarf,Store Item in Stockpile,55,87,23 -> 42,103,24: Id #7310:Path Goal Seek Item for Storage:Station Mill Building at 43,82,23
+loop path fail: <same square> dwarf,51,89,23 -> 40,82,23: Id #3954:Path Goal Seek Station:Station Mill Building at 39,83,23
+loop path fail: <same square> dwarf,59,88,23 -> 62,88,23: Id #7752:Path Goal Performance:Station Mill Building at 65,89,23
+loop path fail: <same square> dwarf,56,83,23 -> 43,82,23: Id #4698:Path Goal Performance:Station Mill Building at 50,89,23
+loop path fail: <same square> dwarf,Make Potash From Ash,53,92,24 -> 12,94,24: Id #2687:Path Goal Work at Building:Station Mill Building at 39,90,23
+loop path fail: <same square> dwarf,57,82,23 -> 54,82,23: Id #5998:Path Goal Performance:Station Mill Building at 63,88,23
+loop path fail: <same square> dwarf,58,82,23 -> 61,82,23: Id #4666:Path Goal Performance:Station Mill Building at 57,82,23
+loop path fail: <same square> dwarf,46,86,23 -> 51,87,23: Id #4946:Path Goal Performance:Station Mill Building at 52,79,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+loop path fail: <same square> dwarf,52,89,23 -> 35,89,23: Id #8522:Path Goal Performance:Station Mill Building at 62,85,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+loop path fail: <same square> dwarf,58,87,23 -> 60,87,23: Id #4521:Path Goal Performance:Station Mill Building at 45,80,23
+loop path fail: <same square> dwarf,50,89,23 -> 48,91,23: Id #5014:Path Goal Performance:Station Mill Building at 41,88,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+loop path fail: <same square> human,49,91,23 -> 52,91,23: Id #8808:Path Goal Performance:Station Mill Building at 44,89,23
+loop path fail: <same square> turkey hen,73,114,24 -> 71,116,24: Id #12088:Path Goal Seek Station:Station Milling Flood at 72,116,24
+loop path fail: <same square> dwarf,Store Item in Stockpile,58,86,23 -> 42,103,24: Id #9804:Path Goal Seek Item for Storage:Station Mill Building at 46,87,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+loop path fail: <same square> dwarf,53,90,23 -> 58,91,23: Id #5021:Path Goal Performance:Station Mill Building at 56,81,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+loop path fail: <same square> dwarf,53,89,23 -> 58,89,23: Id #3064:Path Goal Performance:Station Mill Building at 53,88,23
+loop path fail: <same square> dwarf,56,89,23 -> 35,81,23: Id #8513:Path Goal Performance:Station Mill Building at 58,87,23
+loop path fail: <same square> dwarf,Store Item in Stockpile,52,89,23 -> 68,107,16: Id #9688:Path Goal Seek Item for Storage:Station Mill Building at 60,86,23
+loop path fail: <same square> dwarf,Store Item in Stockpile,57,87,23 -> 68,107,16: Id #9688:Path Goal Seek Item for Storage:Station Mill Building at 60,86,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+loop path fail: <same square> dwarf,45,83,23 -> 37,82,23: Id #9459:Path Goal Seek Station:Station Mill Building at 38,83,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+loop path fail: <same square> cat,54,90,23 -> 50,90,23: Id #12461:Path Goal Seek Station:Station Owner at 59,88,23
+loop path fail: <same square> dwarf,62,86,23 -> 56,88,23: Id #4256:Path Goal Performance:Station Mill Building at 64,80,23
+loop path fail: <same square> dwarf,60,88,23 -> 61,91,23: Id #4235:Path Goal Performance:Station Mill Building at 44,90,23
+loop path fail: <same square> cat,43,83,23 -> 41,81,23: Id #12636:Path Goal Seek Station:Station Owner at 42,79,23
+loop path fail: <same square> dwarf,55,84,23 -> 37,82,23: Id #12066:Path Goal Performance:Station Mill Building at 47,84,23
+loop path fail: <same square> dwarf,43,91,23 -> 37,91,23: Id #6982:Path Goal Performance:Station Mill Building at 37,86,23
+loop path fail: <same square> dwarf,45,81,23 -> 43,80,23: Id #7532:Path Goal Performance:Station Mill Building at 60,88,23
+loop path fail: <same square> cat,48,86,23 -> 57,97,24: Id #12069:Path Goal Seek Station:Station Mill Building at 35,91,23
+loop path fail: <same square> elf,53,83,23 -> 48,85,23: Id #5890:Path Goal Performance:Station Mill Building at 57,80,23
+loop path fail: <same square> dog,57,86,23 -> 61,90,23: Id #13303:Path Goal Seek Station:Station Owner at 55,88,23
+loop path fail: <same square> dwarf,Store Item in Stockpile,61,85,23 -> 26,115,24: Id #9084:Path Goal Seek Item for Storage:Station Mill Building at 47,86,23
+loop path fail: <same square> dwarf,58,91,23 -> 63,91,23: Id #5481:Path Goal Performance:Station Mill Building at 56,84,23
+loop path fail: <same square> dwarf,46,83,23 -> 42,83,23: Id #9773:Path Goal Performance:Station Mill Building at 46,89,14
+loop path fail: <same square> human,56,88,23 -> 58,86,23: Id #3919:Path Goal Performance:Station Mill Building at 57,82,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+loop path fail: <same square> dwarf,54,82,23 -> 35,83,23: Id #4604:Path Goal Performance:Station Mill Building at 51,82,23
+loop path fail: <same square> dwarf,44,83,23 -> 35,82,23: Id #4166:Path Goal Performance:Station Mill Building at 54,87,23
+loop path fail: <same square> dwarf,46,88,23 -> 39,88,23: Id #5710:Path Goal Performance:Station Mill Building at 44,86,23
+loop path fail: <same square> dwarf,Eat,53,88,23 -> 48,97,24: Id #4927:Path Goal Seek Food Item:Station Mill Building at 41,88,23
+loop path fail: <same square> human,57,86,23 -> 62,86,23: Id #3825:Path Goal Performance:Station Mill Building at 52,90,23
