@@ -342,5 +342,7 @@ Invoking: enable gui/extended-status
 Invoking: view-item-info enable
 <vtable-address name='enablerst' value='0x7ffff6cef470'/>
 Invoking: gui/load-screen enable
-UNKNOWN CLASS 'ack21dfhack_lua_viewscreenE': vtable = 0x7ffff7ced318
 Invoking: sc-script add SC_WORLD_LOADED onLoad.init-example
+UNKNOWN CLASS 'ack21dfhack_lua_viewscreenE': vtable = 0x7ffff7ced318
+Could not load script: onLoad.init-example
+Invoking: die

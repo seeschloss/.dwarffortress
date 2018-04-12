@@ -207,3 +207,7 @@
 [2018-04-12T15:50:43+0200] DFHack 0.44.09-r1-0-gb6311ec6 on Linux; cwd md5: 27d1c9aa05; save: region1; SC_MAP_LOADED; game type ADVENTURE_MAIN (1)
 [2018-04-12T16:04:00+0200] DFHack 0.44.09-r1-0-gb6311ec6 on Linux; cwd md5: 27d1c9aa05; save: region1; SC_MAP_UNLOADED; game type ADVENTURE_MAIN (1)
 [2018-04-12T16:04:00+0200] DFHack 0.44.09-r1-0-gb6311ec6 on Linux; cwd md5: 27d1c9aa05; save: region1; SC_WORLD_UNLOADED; game type ADVENTURE_MAIN (1)
+[2018-04-12T16:05:13+0200] DFHack 0.44.09-r1-0-gb6311ec6 on Linux; cwd md5: 27d1c9aa05; save: region1; SC_WORLD_LOADED; game type ADVENTURE_MAIN (1)
+[2018-04-12T16:05:13+0200] DFHack 0.44.09-r1-0-gb6311ec6 on Linux; cwd md5: 27d1c9aa05; save: region1; SC_MAP_LOADED; game type ADVENTURE_MAIN (1)
+[2018-04-12T17:12:49+0200] DFHack 0.44.09-r1-0-gb6311ec6 on Linux; cwd md5: 27d1c9aa05; save: region1; SC_WORLD_LOADED; game type ADVENTURE_MAIN (1)
+[2018-04-12T17:12:49+0200] DFHack 0.44.09-r1-0-gb6311ec6 on Linux; cwd md5: 27d1c9aa05; save: region1; SC_MAP_LOADED; game type ADVENTURE_MAIN (1)
