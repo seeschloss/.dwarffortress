@@ -1077,3 +1077,16 @@ loop path fail: <same square> dwarf,44,83,23 -> 35,82,23: Id #4166:Path Goal Per
 loop path fail: <same square> dwarf,46,88,23 -> 39,88,23: Id #5710:Path Goal Performance:Station Mill Building at 44,86,23
 loop path fail: <same square> dwarf,Eat,53,88,23 -> 48,97,24: Id #4927:Path Goal Seek Food Item:Station Mill Building at 41,88,23
 loop path fail: <same square> human,57,86,23 -> 62,86,23: Id #3825:Path Goal Performance:Station Mill Building at 52,90,23
+succession traveler placed out of bounds
+path fail: <invalid goal> water buffalo cow,59,91,19 -> -25,12,18: Id #17321:Path Goal Seek Station:Station Mill Anywhere at -26,15,18
+loop path fail: <invalid goal> elf,30,96,18 -> 20,83,18: Id #17680:Path Goal Flee from Opponent:Station None at 29,99,18
+succession traveler placed out of bounds
+succession traveler placed out of bounds
+no layer area available for historical figure
+no layer area available for historical figure
+no layer area available for historical figure
+succession traveler placed out of bounds
+path fail: milkfish,92,0,150 -> 100,15,150: Id #33101:Path Goal Flee Terrain:Station None at 91,2,150
+succession traveler placed out of bounds
+path fail: tigerfish,1,4,136 -> 19,12,136: Id #33372:Path Goal Flee Terrain:Station None at 0,5,136
+path fail: tigerfish,4,56,136 -> 24,64,136: Id #33373:Path Goal Flee Terrain:Station None at 5,56,136

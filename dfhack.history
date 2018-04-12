@@ -1,3 +1,7 @@
+quicksave
+weather
+position
+ls
 fastdwarf 1 0
 quicksave
 ls
@@ -93,8 +97,3 @@ quicksave
 prospect
 quicksave
 die
-ls
-quicksave
-die
-quicksave
-prospect
